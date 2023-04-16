@@ -4,9 +4,9 @@ import (
 	"flag"
 	"fmt"
 
-	"admin/internal/config"
-	"admin/internal/handler"
-	"admin/internal/svc"
+	"github.com/Ethereal/micro-mall/apps/pay/admin/internal/config"
+	"github.com/Ethereal/micro-mall/apps/pay/admin/internal/handler"
+	"github.com/Ethereal/micro-mall/apps/pay/admin/internal/svc"
 
 	"github.com/zeromicro/go-zero/core/conf"
 	"github.com/zeromicro/go-zero/rest"

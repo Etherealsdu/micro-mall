@@ -3,8 +3,8 @@ package logic
 import (
 	"context"
 
-	"admin/internal/svc"
-	"admin/internal/types"
+	"github.com/Ethereal/micro-mall/apps/order/admin/internal/svc"
+	"github.com/Ethereal/micro-mall/apps/order/admin/internal/types"
 
 	"github.com/zeromicro/go-zero/core/logx"
 )

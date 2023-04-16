@@ -4,7 +4,7 @@ package handler
 import (
 	"net/http"
 
-	"admin/internal/svc"
+	"github.com/Ethereal/micro-mall/apps/pay/admin/internal/svc"
 
 	"github.com/zeromicro/go-zero/rest"
 )

@@ -1,6 +1,6 @@
 package svc
 
-import "rpc/internal/config"
+import "github.com/Ethereal/micro-mall/apps/cart/rpc/internal/config"
 
 type ServiceContext struct {
 	Config config.Config

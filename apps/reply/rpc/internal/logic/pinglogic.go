@@ -3,8 +3,8 @@ package logic
 import (
 	"context"
 
-	"rpc/internal/svc"
-	"rpc/rpc"
+	"github.com/Ethereal/micro-mall/apps/reply/rpc/internal/svc"
+	"github.com/Ethereal/micro-mall/apps/reply/rpc/rpc"
 
 	"github.com/zeromicro/go-zero/core/logx"
 )

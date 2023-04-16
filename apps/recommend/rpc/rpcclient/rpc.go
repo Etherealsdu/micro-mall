@@ -6,7 +6,7 @@ package rpcclient
 import (
 	"context"
 
-	"rpc/rpc"
+	"github.com/Ethereal/micro-mall/apps/recommend/rpc/rpc"
 
 	"github.com/zeromicro/go-zero/zrpc"
 	"google.golang.org/grpc"

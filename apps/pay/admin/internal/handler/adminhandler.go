@@ -3,9 +3,9 @@ package handler
 import (
 	"net/http"
 
-	"admin/internal/logic"
-	"admin/internal/svc"
-	"admin/internal/types"
+	"github.com/Ethereal/micro-mall/apps/pay/admin/internal/logic"
+	"github.com/Ethereal/micro-mall/apps/pay/admin/internal/svc"
+	"github.com/Ethereal/micro-mall/apps/pay/admin/internal/types"
 	"github.com/zeromicro/go-zero/rest/httpx"
 )
 

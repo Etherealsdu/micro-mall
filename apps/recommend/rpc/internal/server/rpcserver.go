@@ -6,9 +6,9 @@ package server
 import (
 	"context"
 
-	"rpc/internal/logic"
-	"rpc/internal/svc"
-	"rpc/rpc"
+	"github.com/Ethereal/micro-mall/apps/recommend/rpc/internal/logic"
+	"github.com/Ethereal/micro-mall/apps/recommend/rpc/internal/svc"
+	"github.com/Ethereal/micro-mall/apps/recommend/rpc/rpc"
 )
 
 type RpcServer struct {

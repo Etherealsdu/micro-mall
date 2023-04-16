@@ -4,10 +4,10 @@ import (
 	"flag"
 	"fmt"
 
-	"rpc/internal/config"
-	"rpc/internal/server"
-	"rpc/internal/svc"
-	"rpc/rpc"
+	"github.com/Ethereal/micro-mall/apps/user/rpc/internal/config"
+	"github.com/Ethereal/micro-mall/apps/user/rpc/internal/server"
+	"github.com/Ethereal/micro-mall/apps/user/rpc/internal/svc"
+	"github.com/Ethereal/micro-mall/apps/user/rpc/rpc"
 
 	"github.com/zeromicro/go-zero/core/conf"
 	"github.com/zeromicro/go-zero/core/service"
